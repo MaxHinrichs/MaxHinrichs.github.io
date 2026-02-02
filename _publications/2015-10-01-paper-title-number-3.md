@@ -1,5 +1,5 @@
 ---
-title: "Testing anticipatory looking implicit Theory of Mind paradigms under more realistic social circumstances [Preregistration with the Open Science Framework"
+title: "Testing anticipatory looking implicit Theory of Mind paradigms under more realistic social circumstances [Preregistration with the Open Science Framework]"
 collection: publications
 permalink: https://doi.org/10.17605/OSF.IO/NTJ2Y
 date: 27 February 2019
