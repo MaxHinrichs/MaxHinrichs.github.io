@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 2"
+title: "Implicit Theory of Mind under realistic social circumstances measured with mobile eye-tracking"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: https://dx.doi.org/10.1038/s41598-020-80614-5
+date: 2021
+venue: 'Scientific Reports'
+citation: 'Kulke, L., & Hinrichs, M. A. B. (2021). Implicit Theory of Mind under realistic social circumstances measured with mobile eye-tracking. <i>Scientific Reports1</i>, <i>111</i>, 1215. https://dx.doi.org/10.1038/s41598-020-80614-5'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
