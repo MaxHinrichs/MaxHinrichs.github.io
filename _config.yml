@@ -182,10 +182,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  Science Communication:
     output: true
     permalink: /:collection/:path/
-  talks:
+  Presentations:
     output: true
     permalink: /:collection/:path/
 
