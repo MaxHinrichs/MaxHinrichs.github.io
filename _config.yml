@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Max Hinrichs"
+title                    : "Max A. B. Hinrichs"
 title_separator          : "-"
 name                     : &name "Max Andreas Bosse Hinrichs"
 description              : &description "Hi, I am a PhD student in Cognitive Neuroscience"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Max Hinrichs"
   avatar           : "profile_picture.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Hi, I am a PhD student in Cognitive Neuroscience at the Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. I am interested in the neural mechanisms of spatial navigation, learning, and memory, and the role of neural replay."
+  location         : "Leipzig, Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=RTTU5csAAAAJ&hl=en"
+  email            : hinrichs@cbs.mpg.de
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,25 +96,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/MaxHinrichs"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : https://www.linkedin.com/in/max-hinrichs-0a8b8314a/
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  bluesky          : "https://bsky.app/profile/maxhinrichs.bsky.social"
 
 
 # Reading Files
