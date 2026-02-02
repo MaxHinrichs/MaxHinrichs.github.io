@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Psychology, Göttingen University, 2019
+* M.S. in Jekyll, Göttingen University, 2021
+* Currently Ph.D in Cognitive Neuroscience, Max Planck Institute for Cognitive and Brain Sciences, Leipzig
 
 Work experience
 ======
