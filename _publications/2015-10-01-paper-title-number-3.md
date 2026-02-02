@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 3"
+title: "Testing anticipatory looking implicit Theory of Mind paradigms under more realistic social circumstances [Preregistration with the Open Science Framework"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: https://doi.org/10.17605/OSF.IO/NTJ2Y
+date: 2019
+venue: 'Open Science Framework'
+citation: 'Hinrichs, M. A. B. & Kulke, L. (2019, June 15). Testing anticipatory looking implicit Theory of Mind paradigms under more realistic social circumstances [Preregistration with the Open Science Framework]. https://doi.org/10.17605/OSF.IO/NTJ2Y'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
