@@ -195,7 +195,7 @@ collections:
   Science Communication:
     output: true
     permalink: /:collection/:path/
-  talk:
+  talks:
     output: true
     permalink: /:collection/:path/
 
