@@ -18,7 +18,6 @@ Research Interests
 
 Methods
 ======
-• fMRI, MEG, (i)EEG, eye tracking 
-• computational modelling and machine learning
+• fMRI, MEG, (i)EEG, eye tracking • machine learning
 
 
