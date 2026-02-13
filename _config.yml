@@ -497,7 +497,7 @@ collections:
   Science Communication:
     output: true
     permalink: /:collection/:path/
-  Presentations:
+  talks:
     output: true
     permalink: /:collection/:path/
 
