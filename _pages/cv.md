@@ -11,9 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in Psychology, Göttingen University, 2019
-* M.S. in Jekyll, Göttingen University, 2021
-* Currently Ph.D in Cognitive Neuroscience, Max Planck Institute for Cognitive and Brain Sciences, Leipzig
+* 09/2022 – present		Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig (GER)
+	* PhD candidate, Advisors: Prof. Christian Doeller, Prof. Nicolas Schuck
+* 09/2021 – present 	Max Planck School of Cognition, Leipzig (GER)
+  * PhD candidate                                 
+* 10/2019 – 09/2021	Georg-August-University, Göttingen (GER)
+  * M.Sc. Psychology
+* 10/2015 – 10/2019	Georg-August-University, Göttingen (GER)
+  * B.Sc. Psychology
+* 08/2017 – 12/2017	University of Bergen (NOR)	
+  * Exchange program 
+* 08/2006 – 07/2014	Lessing Gymnasium, Uelzen (GER)
+  * Abitur
 
 Work experience
 ======
