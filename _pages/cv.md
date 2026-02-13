@@ -19,7 +19,6 @@ Education
   Prof. Hauke Heekeren
   Prof. Christian Doeller
   Prof. Nicolas Schuck                 
-<img width="468" height="52" alt="image" src="https://github.com/user-attachments/assets/008f0368-61d5-4dfb-af4d-2cd6931fd22f" />
                                 
 * 10/2019 – 09/2021	**Georg-August-University, Göttingen (GER)**
   * M.Sc. Psychology
