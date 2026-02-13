@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a PhD student in Psychology and Cognitive Neuroscience.
+Hi, I am a PhD student in Cognitive Neuroscience at the Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. I am interested in the neural mechanisms of spatial navigation, learning, and memory, and the role of neural replay.
 
 Research Interests
 ======
 • spatial navigation 
 • cognitive maps 
 • episodic memory 
-• fMRI, MEG, (i)EEG 
-• computational modelling and artificial intelligence
 
-Emails
+Methods
 ======
-Max.Hinrichs@maxplanckschools.de, hinrichs@cbs.mpg.de
+• fMRI, MEG, (i)EEG, eye tracking 
+• computational modelling and machine learning
+
 
