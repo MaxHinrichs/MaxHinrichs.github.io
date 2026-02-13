@@ -32,7 +32,7 @@ Education
 
 Awards and Scholarships
 ======
-* 12/2025	**MPUTC Symposium: Frontiers of Neuroscience and Technology. Halle, Germany**, best poster award for an “Outstanding Doctoral 				Research Project in Cognitive Neuroscience”
+12/2025	**MPUTC Symposium: Frontiers of Neuroscience and Technology. Halle, Germany**, best poster award for an “Outstanding Doctoral 				Research Project in Cognitive Neuroscience”
 
 09/2021		**Max Planck School of Cognition**, PhD stipend funded by the Max Planck Institute for Human Cognitive and Brain Science, 					Leipzig (GER)  
 
