@@ -47,22 +47,30 @@ Awards and Scholarships
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+  # <ul>{% for post in site.publications %}
+  #  {% include archive-single-cv.html %}
+  # {% endfor %}</ul>
+    {% assign sorted_pubs = site.publications | sort: "date" | reverse %}
+{% for post in sorted_pubs %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+
+Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+ # <ul>{% for post in site.talks %}
+ #   {% include archive-single-talk-cv.html %}
+ # {% endfor %}</ul>
+ 
+  {% assign sorted_talks = site.talks | sort: "date" | reverse %}
+{% for post in sorted_talks %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
 
 Science Communication
 ======
 01/2024	Interviewed by a journalist from “Der Spiegel”- a German news magazine; PhD research    
  		featured in Issue 5, published 27.01.2024
 
-  
 Research Experience
 ======
 05/2022 – 07/2022 	**NeuroCode – Neural and Computational Basis of Learning, Memory and Decision Making, Max Planck Institute for Human 						Development, Berlin (GER)**
