@@ -120,6 +120,7 @@ author:
   - label: "Bluesky"
     icon: "fas fa-link"
     url: "https://bsky.app/profile/maxhinrichs.bsky.social"
+  uri: "https://bsky.app/profile/maxhinrichs.bsky.social"
 
 # Reading Files
 include:
@@ -425,6 +426,7 @@ author:
     - label: "Bluesky"
       icon: "fas fa-link"
       url: "https://bsky.app/profile/maxhinrichs.bsky.social"
+  uri: "https://bsky.app/profile/maxhinrichs.bsky.social"
 
 # Reading Files
 include:
