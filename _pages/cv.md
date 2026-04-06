@@ -47,9 +47,6 @@ Awards and Scholarships
 
 Publications
 ======
-  # <ul>{% for post in site.publications %}
-  #  {% include archive-single-cv.html %}
-  # {% endfor %}</ul>
     {% assign sorted_pubs = site.publications | sort: "date" | reverse %}
 {% for post in sorted_pubs %}
   {% include archive-single-cv.html %}
@@ -57,10 +54,6 @@ Publications
 
 Presentations
 ======
- # <ul>{% for post in site.talks %}
- #   {% include archive-single-talk-cv.html %}
- # {% endfor %}</ul>
- 
   {% assign sorted_talks = site.talks | sort: "date" | reverse %}
 {% for post in sorted_talks %}
   {% include archive-single-talk-cv.html %}
