@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Website"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,6 +18,6 @@ Research Interests
 
 Methods
 ======
-• fMRI, MEG, (i)EEG, eye tracking • machine learning
+• fMRI, (i)EEG, eye tracking • machine learning
 
 
