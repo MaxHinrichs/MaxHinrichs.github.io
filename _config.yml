@@ -8,16 +8,6 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Max A. B. Hinrichs"
-title_separator          : "-"# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-# Site Settings
-locale                   : "en-US"
-title                    : "Max A. B. Hinrichs"
 title_separator          : "-"
 name                     : &name "Max Andreas Bosse Hinrichs"
 description              : &description "I am a PhD student in Cognitive Neuroscience"
@@ -128,7 +118,7 @@ author:
   bluesky          : "maxhinrichs.bsky.social"
   links:
     - label: "Bluesky"
-      icon: "fab fa-bluesky"
+      icon: "fas fa-link"
       url: "https://bsky.app/profile/maxhinrichs.bsky.social"
 
 # Reading Files
@@ -433,7 +423,7 @@ author:
   bluesky          : "maxhinrichs.bsky.social"
   links:
     - label: "Bluesky"
-      icon: "fab fa-bluesky"
+      icon: "fas fa-link"
       url: "https://bsky.app/profile/maxhinrichs.bsky.social"
 
 # Reading Files
