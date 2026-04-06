@@ -116,7 +116,10 @@ author:
   youtube          :
   wikipedia        :
   bluesky          : "maxhinrichs.bsky.social"
-
+  links:
+  - label: "Bluesky"
+    icon: "fas fa-link"
+    url: "https://bsky.app/profile/maxhinrichs.bsky.social"
 
 # Reading Files
 include:
@@ -418,7 +421,10 @@ author:
   youtube          :
   wikipedia        :
   bluesky          : "maxhinrichs.bsky.social"
-
+  links:
+    - label: "Bluesky"
+      icon: "fas fa-link"
+      url: "https://bsky.app/profile/maxhinrichs.bsky.social"
 
 # Reading Files
 include:
