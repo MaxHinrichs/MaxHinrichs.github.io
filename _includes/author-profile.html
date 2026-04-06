@@ -65,16 +65,14 @@
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
       {% if author.bluesky %}
-      <li class="list-inline-item">
-        <a rel="me" href="https://bsky.app/profile/{{ author.github }}" title="Bluesky">
-          <span class="fa-stack fa-lg" aria-hidden="true">
-            <i class="fas fa-circle fa-stack-2x"></i>
-            <i class="fas fa-brands fa-bluesky fa-stack-1x fa-inverse"></i>
-          </span>
-          <span class="sr-only">Bluesky</span>
-        </a>
-      </li>
-      {%- endif -%}    
+        <li>
+          <a href="https://bsky.app/profile/{{ author.bluesky }}" target="_blank" rel="noopener noreferrer" style="display: inline-block; width: 20px; height: 20px;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 530" width="20" height="20" style="display:block; fill:#1DA1F2;">
+              <path d="M300 245c-45-87-167-177-217-206C53 18 0 0 0 0s-6 56 0 93c11 71 67 147 121 182-54-35-110-111-121-182-6-37 0-93 0-93s53 18 83 39c50 29 172 119 217 206 45-87 167-177 217-206C547 18 600 0 600 0s6 56 0 93c-11 71-67 147-121 182 54-35 110-111 121-182 6-37 0-93 0-93s-53 18-83 39c-50 29-172 119-217 206z"/>
+            </svg>
+          </a>
+        </li>
+      {% endif %} 
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
       {% endif %}
