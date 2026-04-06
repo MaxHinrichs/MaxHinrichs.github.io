@@ -15,9 +15,10 @@ Research Interests
 • spatial navigation 
 • cognitive maps 
 • episodic memory 
+• reinforcement learning 
 
 Methods
 ======
-• fMRI, (i)EEG, eye tracking • machine learning
+• fMRI • (i)EEG • eye tracking • machine learning
 
 
