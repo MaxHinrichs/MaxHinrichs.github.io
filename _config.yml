@@ -116,7 +116,6 @@ author:
   youtube          :
   wikipedia        :
   bluesky          : maxhinrichs.bsky.social
-  uri: "https://bsky.app/profile/maxhinrichs.bsky.social"
 # Reading Files
 include:
   - .htaccess
@@ -417,7 +416,6 @@ author:
   youtube          :
   wikipedia        :
   bluesky          : maxhinrichs.bsky.social
-  uri: "https://bsky.app/profile/maxhinrichs.bsky.social"
 
 # Reading Files
 include:
